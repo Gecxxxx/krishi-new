@@ -1,0 +1,4 @@
+.source/
+.npm-cache/
+node_modules/
+tmp_patch_krishi.js
