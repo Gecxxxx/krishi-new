@@ -391,47 +391,56 @@
     {
       "host": "Kinescope",
       "embed": "https://kinescope.io/embed/8Zvzvvhqz9k88YwdmydXpV",
-      "usage": "video review"
+      "usage": "video review",
+      "group": "ВИДЕООТЗЫВ"
     },
     {
       "host": "Kinescope",
       "embed": "https://kinescope.io/embed/uP9e3ZQGmDnTDiTvGndWpc",
-      "usage": "video review"
+      "usage": "video review",
+      "group": "ВИДЕООТЗЫВ"
     },
     {
       "host": "Kinescope",
       "embed": "https://kinescope.io/embed/epWAswLUpdFKd1YRpFnp7o",
-      "usage": "video overview"
+      "usage": "video overview",
+      "group": "ВИДЕООБЗОР"
     },
     {
       "host": "Kinescope",
       "embed": "https://kinescope.io/embed/6xki7cxAzBVDcmZt6pDEMs",
-      "usage": "video overview"
+      "usage": "video overview",
+      "group": "ВИДЕООБЗОР"
     },
     {
       "host": "Kinescope",
       "embed": "https://kinescope.io/embed/npvN5QfLKtuMQmT4kv8ZGS",
-      "usage": "video overview"
+      "usage": "video overview",
+      "group": "ВИДЕООБЗОР"
     },
     {
       "host": "Kinescope",
       "embed": "https://kinescope.io/embed/w3ePmC4B9nw2hsPKZh5cY8",
-      "usage": "video overview"
+      "usage": "video overview",
+      "group": "ВИДЕООБЗОР"
     },
     {
       "host": "Kinescope",
       "embed": "https://kinescope.io/embed/rcZnu6wSqQxd6bDupYNK53",
-      "usage": "video overview"
+      "usage": "video overview",
+      "group": "ВИДЕООБЗОР"
     },
     {
       "host": "Kinescope",
       "embed": "https://kinescope.io/embed/mGCiL7SRxuN1dpMVuPatyQ",
-      "usage": "video overview"
+      "usage": "video overview",
+      "group": "ВИДЕООБЗОР"
     },
     {
       "host": "Kinescope",
       "embed": "https://kinescope.io/embed/mVE8rbx3TyQzEotznxbQTV",
-      "usage": "video overview"
+      "usage": "video overview",
+      "group": "ВИДЕООБЗОР"
     }
   ],
   "unavailable": [],
@@ -457,40 +466,70 @@
     ],
     "projects": [
       [
+        "assets/img/original/skrinshot_27_01_2026_125846.jpg",
+        "assets/img/original/skrinshot_27_01_2026_125905.jpg",
+        "assets/img/original/skrinshot_27_01_2026_125915.jpg",
+        "assets/img/original/skrinshot_27_01_2026_125924.jpg"
+      ],
+      [
         "assets/img/original/skrinshot_27_01_2026_130110.jpg",
         "assets/img/original/skrinshot_27_01_2026_130118.jpg",
-        "assets/img/original/skrinshot_27_01_2026_130125.jpg",
-        "assets/img/original/skrinshot_27_01_2026_130324.jpg"
+        "assets/img/original/skrinshot_27_01_2026_130125.jpg"
+      ],
+      [
+        "assets/img/original/skrinshot_27_01_2026_130604.jpg",
+        "assets/img/original/skrinshot_27_01_2026_130612.jpg",
+        "assets/img/original/skrinshot_27_01_2026_130621.jpg"
+      ],
+      [
+        "assets/img/original/skrinshot_27_01_2026_130439.jpg",
+        "assets/img/original/skrinshot_27_01_2026_130444.jpg",
+        "assets/img/original/skrinshot_27_01_2026_130450.jpg"
+      ],
+      [
+        "assets/img/original/skrinshot_27_01_2026_130324.jpg",
+        "assets/img/original/skrinshot_27_01_2026_130342.jpg",
+        "assets/img/original/skrinshot_27_01_2026_130329.jpg"
+      ],
+      [
+        "assets/img/original/skrinshot_27_01_2026_130942.jpg",
+        "assets/img/original/skrinshot_27_01_2026_130930.jpg",
+        "assets/img/original/skrinshot_27_01_2026_130917.jpg",
+        "assets/img/original/skrinshot_27_01_2026_130912.jpg"
       ],
       [
         "assets/img/original/skrinshot_27_01_2026_133752.jpg",
         "assets/img/original/skrinshot_27_01_2026_133756.jpg",
-        "assets/img/original/skrinshot_27_01_2026_133801.jpg",
+        "assets/img/original/skrinshot_27_01_2026_133801.jpg"
+      ],
+      [
+        "assets/img/original/skrinshot_27_01_2026_133938.jpg",
+        "assets/img/original/skrinshot_27_01_2026_133931.jpg",
+        "assets/img/original/skrinshot_27_01_2026_133925.jpg",
         "assets/img/original/skrinshot_27_01_2026_133916.jpg"
       ],
       [
-        "assets/img/original/skrinshot_27_01_2026_134236.jpg",
-        "assets/img/original/skrinshot_27_01_2026_134245.jpg",
+        "assets/img/original/skrinshot_27_01_2026_134041.jpg",
+        "assets/img/original/skrinshot_27_01_2026_134055.jpg",
+        "assets/img/original/skrinshot_27_01_2026_134112.jpg",
+        "assets/img/original/skrinshot_27_01_2026_134126.jpg",
+        "assets/img/original/skrinshot_27_01_2026_134140.jpg"
+      ],
+      [
         "assets/img/original/skrinshot_27_01_2026_134256.jpg",
-        "assets/img/original/skrinshot_27_01_2026_134337.jpg"
+        "assets/img/original/skrinshot_27_01_2026_134245.jpg",
+        "assets/img/original/skrinshot_27_01_2026_134236.jpg"
       ],
       [
-        "assets/img/original/skrinshot_30_01_2026_172226.jpg",
-        "assets/img/original/skrinshot_30_01_2026_172243.jpg",
-        "assets/img/original/skrinshot_30_01_2026_172313.jpg",
-        "assets/img/original/skrinshot_30_01_2026_172331.jpg"
+        "assets/img/original/skrinshot_27_01_2026_134337.jpg",
+        "assets/img/original/skrinshot_27_01_2026_134344.jpg",
+        "assets/img/original/skrinshot_27_01_2026_134349.jpg"
       ],
       [
-        "assets/img/original/skrinshot_30_01_2026_090737.jpg",
-        "assets/img/original/skrinshot_30_01_2026_090844.jpg",
-        "assets/img/original/skrinshot_30_01_2026_091002.jpg",
-        "assets/img/original/skrinshot_30_01_2026_091141.jpg"
-      ],
-      [
-        "assets/img/original/skrinshot_30_01_2026_172519.jpg",
-        "assets/img/original/skrinshot_30_01_2026_172536.jpg",
-        "assets/img/original/skrinshot_30_01_2026_172605.jpg",
-        "assets/img/original/skrinshot_30_01_2026_172621.jpg"
+        "assets/img/original/skrinshot_27_01_2026_134435.jpg",
+        "assets/img/original/skrinshot_27_01_2026_134450.jpg",
+        "assets/img/original/skrinshot_27_01_2026_134505.jpg",
+        "assets/img/original/skrinshot_27_01_2026_134520.jpg"
       ]
     ],
     "quiz": [
@@ -510,6 +549,28 @@
       "https://kinescope.io/embed/rcZnu6wSqQxd6bDupYNK53",
       "https://kinescope.io/embed/mGCiL7SRxuN1dpMVuPatyQ",
       "https://kinescope.io/embed/mVE8rbx3TyQzEotznxbQTV"
-    ]
+    ],
+    "portfolioObjects": {
+      "count": 12,
+      "uniquePhotos": 42,
+      "note": "12 карточек объектов на portfolio.html восстановлены по исходному сайту"
+    },
+    "portfolioVideos": {
+      "videoReviews": 2,
+      "videoOverviews": 7,
+      "host": "Kinescope",
+      "pages": [
+        "index.html",
+        "portfolio.html"
+      ]
+    },
+    "pricesObjects": {
+      "count": 12,
+      "note": "prices.html синхронизирован с portfolio.html по адресу, фото, работам и цене"
+    },
+    "homeObjects": {
+      "count": 4,
+      "note": "index.html показывает первые 4 объекта с теми же фото и адресами, что portfolio.html"
+    }
   }
 }
