@@ -569,8 +569,52 @@
       "note": "prices.html синхронизирован с portfolio.html по адресу, фото, работам и цене"
     },
     "homeObjects": {
-      "count": 4,
-      "note": "index.html показывает первые 4 объекта с теми же фото и адресами, что portfolio.html"
+      "count": 6,
+      "note": "На главной странице показаны первые 6 объектов из исходных 12; фото, адреса, работы и цены синхронизированы с карточками объектов и цен.",
+      "photos": [
+        [
+          "assets/img/original/skrinshot_27_01_2026_125846.jpg",
+          "assets/img/original/skrinshot_27_01_2026_125905.jpg",
+          "assets/img/original/skrinshot_27_01_2026_125915.jpg",
+          "assets/img/original/skrinshot_27_01_2026_125924.jpg"
+        ],
+        [
+          "assets/img/original/skrinshot_27_01_2026_130110.jpg",
+          "assets/img/original/skrinshot_27_01_2026_130118.jpg",
+          "assets/img/original/skrinshot_27_01_2026_130125.jpg"
+        ],
+        [
+          "assets/img/original/skrinshot_27_01_2026_130604.jpg",
+          "assets/img/original/skrinshot_27_01_2026_130612.jpg",
+          "assets/img/original/skrinshot_27_01_2026_130621.jpg"
+        ],
+        [
+          "assets/img/original/skrinshot_27_01_2026_130439.jpg",
+          "assets/img/original/skrinshot_27_01_2026_130444.jpg",
+          "assets/img/original/skrinshot_27_01_2026_130450.jpg"
+        ],
+        [
+          "assets/img/original/skrinshot_27_01_2026_130324.jpg",
+          "assets/img/original/skrinshot_27_01_2026_130342.jpg",
+          "assets/img/original/skrinshot_27_01_2026_130329.jpg"
+        ],
+        [
+          "assets/img/original/skrinshot_27_01_2026_130942.jpg",
+          "assets/img/original/skrinshot_27_01_2026_130930.jpg",
+          "assets/img/original/skrinshot_27_01_2026_130917.jpg",
+          "assets/img/original/skrinshot_27_01_2026_130912.jpg"
+        ]
+      ]
+    },
+    "quizAttachments": {
+      "pages": [
+        "index.html",
+        "calculator.html"
+      ],
+      "fields": [
+        "attachments"
+      ],
+      "note": "Добавлено поле прикрепления фото объекта, замеров или сметы в шаг квиза с адресом объекта."
     }
   }
 }
