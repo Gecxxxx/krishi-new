@@ -616,5 +616,31 @@
       ],
       "note": "Добавлено поле прикрепления фото объекта, замеров или сметы в шаг квиза с адресом объекта."
     }
-  }
+  },
+  "generatedServiceImages": [
+    {
+      "file": "assets/img/generated/services/service-roof-turnkey.png",
+      "usage": "Карточка услуги: Монтаж кровли под ключ"
+    },
+    {
+      "file": "assets/img/generated/services/service-roof-demolition.png",
+      "usage": "Карточка услуги: Полный демонтаж старой кровли под ноль"
+    },
+    {
+      "file": "assets/img/generated/services/service-rafters.png",
+      "usage": "Карточка услуги: Возведение новой надежной стропильной системы"
+    },
+    {
+      "file": "assets/img/generated/services/service-counter-battens.png",
+      "usage": "Карточка услуги: Монтаж контробрешетки"
+    },
+    {
+      "file": "assets/img/generated/services/service-metal-tile.png",
+      "usage": "Карточка услуги: Монтаж металлочерепицы"
+    },
+    {
+      "file": "assets/img/generated/services/service-materials.png",
+      "usage": "Карточка услуги: Материалы для кровли"
+    }
+  ]
 }
