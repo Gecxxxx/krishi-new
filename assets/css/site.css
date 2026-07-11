@@ -40,3 +40,6 @@
 /* hero-call-width-20260711 */
 .hero-actions--main .btn:nth-child(2){min-width:278px}
 @media (max-width:720px){.hero-actions--main .btn:nth-child(2){min-width:0}}
+
+/* privacy-consent-20260711 */
+.check a{color:var(--blue-dark);font-weight:900;text-decoration:underline}.legal-content{max-width:900px}.legal-content h2{margin:28px 0 10px;font-size:28px}.legal-content p{color:var(--muted);font-size:17px;line-height:1.65}.legal-content a{color:var(--blue-dark);font-weight:900}
